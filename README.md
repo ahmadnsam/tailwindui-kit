@@ -44,20 +44,19 @@ Radio Group representation component
 ![image](https://user-images.githubusercontent.com/83499142/196044739-9cf26bed-c546-4be1-8448-6a3b9f6398ad.png)
 
 
-📃: [Radio Group Documentation](/)
+📃: [Radio Group Documentation](https://viteapps.dev/radio-group)
 
 ### Text Input 
 
 ![image](https://user-images.githubusercontent.com/83499142/196044813-b25c1ff1-4630-49a5-aec9-1b45f2393cd4.png)
 
 
-📃: [Text Input Documentation](/)
 
 ### Advanced Text Area
 
 ![image](https://user-images.githubusercontent.com/83499142/196044852-35217549-bfc6-44ba-92aa-65419f07c0c1.png)
 
-📃: [Advanced Text Area Documentation](/)
+📃: [Advanced Text Area Documentation](https://viteapps.dev/advanced-text-area)
 
 
 
