@@ -10,7 +10,11 @@ PCF components UI Kit, sourced from Tailwind UI components, built with Reactjs a
 To be able to install the controls, follow the below steps
 
 1- Enable Code components on Canvas apps, follow link [here](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/component-framework-for-canvas-apps)
+
+2- Install the tailwindui-kit from the [releases page](https://github.com/ahmadnsam/tailwindui-kit/releases) into your environment
+
 2- Create a new app or open an existing one
+
 3- Click to import components
 
 ![image](https://user-images.githubusercontent.com/83499142/196043416-84fa83f3-54b5-4d78-bccf-a57012283043.png)
