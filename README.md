@@ -62,12 +62,11 @@ Radio Group representation component
 
 📃: [Advanced Text Area Documentation](https://viteapps.dev/advanced-text-area)
 
+### Alert
 
+![Screenshot 2022-11-01 085632](https://user-images.githubusercontent.com/83499142/199187158-5e61a75c-7fc6-4f63-8116-710283b9d934.png)
 
-
-
-
-
+📃: [Alert Documentation](https://viteapps.dev/alert-control)
 
 
 
